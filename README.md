@@ -5,6 +5,4 @@ I have experience designing microservices, building gRPC APIs, writing event-dri
  
 I also bring a background in ML/analytics, which helps me design data-aligned systems and reason about performance and user behavior at a deeper level.
 
-I care about clean architecture, good documentation, observability, and writing backend code that scales gracefully.
-
 📧 ai.vishnuvardhan97@gmail.com • 📞 +1 (716) 994-8111
