@@ -1,10 +1,10 @@
-# Hi👋 I'm Vishnu
+# Hi, I'm Vishnu 👋
 
-I'm a software engineer specializing in backend development with Go.  
-I have hands-on experience designing and building microservices, distributed backends, gRPC services, event-driven systems, and scalable storage workflows.
+I'm a software engineer focused on building reliable, scalable backend systems in Go.  
+I have experience designing microservices, building gRPC APIs, writing event-driven pipelines, and optimizing systems for performance and maintainability. I’ve worked on real-world projects involving distributed storage, background workers, API migrations, and production debugging.
+ 
+I also bring a background in ML/analytics, which helps me design data-aligned systems and reason about performance and user behavior at a deeper level.
 
-I also have a background in ML/analytics which helps me build data-aware systems and reason about performance, efficiency, and user behavior.
-
-I’m passionate about writing clean, reliable, and maintainable backend code — and I’m always exploring new ways to push Go and cloud-native systems further.
+I care about clean architecture, good documentation, observability, and writing backend code that scales gracefully.
 
 📧 ai.vishnuvardhan97@gmail.com • 📞 +1 (716) 994-8111
