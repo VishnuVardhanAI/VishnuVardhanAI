@@ -1,4 +1,4 @@
-# Hi, I'm Vishnu 👋
+# Hi👋 I'm Vishnu
 
 I'm a software engineer specializing in backend development with Go.  
 I have hands-on experience designing and building microservices, distributed backends, gRPC services, event-driven systems, and scalable storage workflows.
