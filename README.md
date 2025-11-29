@@ -13,37 +13,31 @@ I also have a background in data analytics and machine learning, with projects i
 <table>
   <tr>
     <td><strong>Languages</strong></td>
+    <td><strong>Backend</strong></td>
+    <td><strong>Messaging</strong></td>
+    <td><strong>Databases & Storage</strong></td>
+    <td><strong>DevOps & Observability</strong></td>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/gRPC-004088?logo=grpc&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td><strong>Messaging</strong></td>
     <td>
       <img src="https://img.shields.io/badge/NATS-27AAE1?logo=natsdotio&logoColor=white"/>
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Storage</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Observability</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jaeger-EA7E20?logo=jaeger&logoColor=white"/>
@@ -56,7 +50,5 @@ I also have a background in data analytics and machine learning, with projects i
 ---
 
 ## 📫 Contact
-📧 **ai.vishnuvardhan97@gmail.com**  
-📱 **+1 (716) 994-8111**
 📧 **ai.vishnuvardhan97@gmail.com**  
 📱 **+1 (716) 994-8111**
