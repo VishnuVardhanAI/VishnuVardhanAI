@@ -1,6 +1,6 @@
 ## Hi, I'm Vishnu 👋
 
-I'm a software engineer specializing in backend development, distributed systems, and cloud-native architecture. I work with Go, Python, gRPC, PostgreSQL, Redis, NATS, RabbitMQ, Docker, and modern observability tooling to build reliable, maintainable backend services.
+I'm a software engineer specializing in backend development, distributed systems, and cloud-native architecture. I work with Go, Python, gRPC, PostgreSQL, Redis, NATS, RabbitMQ, Docker, and modern observability tooling to build reliable and maintainable backend services.
 
 My experience includes building and scaling production microservices at an e-commerce startup—where I led the development of a promotion engine, migrated core services to Go, implemented distributed worker systems, and improved platform observability—as well as designing cloud storage systems, event-driven pipelines, and API-driven services across personal projects.
 
@@ -32,11 +32,11 @@ I also have a background in data analytics and machine learning, with projects i
 #### **DevOps & Observability**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-EA7E20?logo=jaeger&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![OpenTracing](https://img.shields.io/badge/OpenTracing-FF6F00?logo=opentracing&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 
 ---
 
 ### 📫 Contact
 📧 **ai.vishnuvardhan97@gmail.com**  
-📱 +1 (716) 994-8111
+📱 **+1 (716) 994-8111**
